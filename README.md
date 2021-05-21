@@ -1,1 +1,1 @@
-# atari_squematich
+# Atari schematics for repair
